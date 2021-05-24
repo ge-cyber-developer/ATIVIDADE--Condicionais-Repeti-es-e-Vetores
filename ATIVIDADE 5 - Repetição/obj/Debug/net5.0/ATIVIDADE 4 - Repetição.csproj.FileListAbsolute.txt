@@ -1,0 +1,16 @@
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ATIVIDADE 4 - Repetição.exe
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ATIVIDADE 4 - Repetição.deps.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ATIVIDADE 4 - Repetição.runtimeconfig.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ATIVIDADE 4 - Repetição.runtimeconfig.dev.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ATIVIDADE 4 - Repetição.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ref\ATIVIDADE 4 - Repetição.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\bin\Debug\net5.0\ATIVIDADE 4 - Repetição.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.csprojAssemblyReference.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.AssemblyInfo.cs
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ref\ATIVIDADE 4 - Repetição.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 4 - Repetição\obj\Debug\net5.0\ATIVIDADE 4 - Repetição.genruntimeconfig.cache

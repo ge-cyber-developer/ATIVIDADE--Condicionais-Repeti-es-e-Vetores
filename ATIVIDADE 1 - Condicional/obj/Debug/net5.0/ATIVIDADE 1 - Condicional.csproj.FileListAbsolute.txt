@@ -1,0 +1,16 @@
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ATIVIDADE 1 - Condicional.exe
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ATIVIDADE 1 - Condicional.deps.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ATIVIDADE 1 - Condicional.runtimeconfig.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ATIVIDADE 1 - Condicional.runtimeconfig.dev.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ATIVIDADE 1 - Condicional.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ref\ATIVIDADE 1 - Condicional.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\bin\Debug\net5.0\ATIVIDADE 1 - Condicional.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.csprojAssemblyReference.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.AssemblyInfo.cs
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ref\ATIVIDADE 1 - Condicional.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 1 - Condicional\obj\Debug\net5.0\ATIVIDADE 1 - Condicional.genruntimeconfig.cache

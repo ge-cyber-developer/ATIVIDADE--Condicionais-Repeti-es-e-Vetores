@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ATIVIDADE 5 - Repetição/1.0.0": {
+        "runtime": {
+          "ATIVIDADE 5 - Repetição.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATIVIDADE 5 - Repetição/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

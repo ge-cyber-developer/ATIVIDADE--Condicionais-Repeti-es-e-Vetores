@@ -1,0 +1,16 @@
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.csprojAssemblyReference.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.AssemblyInfoInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.AssemblyInfo.cs
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.csproj.CoreCompileInputs.cache
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ATIVIDADE 6 - Vetores.exe
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ATIVIDADE 6 - Vetores.deps.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ATIVIDADE 6 - Vetores.runtimeconfig.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ATIVIDADE 6 - Vetores.runtimeconfig.dev.json
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ATIVIDADE 6 - Vetores.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ref\ATIVIDADE 6 - Vetores.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\bin\Debug\net5.0\ATIVIDADE 6 - Vetores.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ref\ATIVIDADE 6 - Vetores.dll
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.pdb
+C:\Users\giova\Documents\C#\Aulas Senai 1º TERMO\FRONT-END\EXERCÍCIOS - Condicionais e Repetições\ATIVIDADE 6 - Vetores\obj\Debug\net5.0\ATIVIDADE 6 - Vetores.genruntimeconfig.cache
